@@ -4,4 +4,4 @@ Use this double click test to test your mouse for double clicks and find out it 
 
 https://poychang.github.io/double-click-test/
 
-![demo site](https://i.imgur.com/4X1FBgB.png)
+![demo site](https://i.imgur.com/Jdn3xw6.png)
